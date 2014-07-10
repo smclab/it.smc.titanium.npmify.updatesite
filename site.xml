@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/it.smc.titanium.npmify.feature_0.4.10.jar" id="it.smc.titanium.npmify.feature" version="0.4.10"/>
+</site>
